@@ -1,0 +1,8 @@
+#File for loading in objects of a city
+file Models/cube.obj
+pos 0 0 0
+scale 10 10 10
+rotation 0 0 0
+material Materials/DefaultMat.txt
+#texture Textures/fabric.bmp
+end

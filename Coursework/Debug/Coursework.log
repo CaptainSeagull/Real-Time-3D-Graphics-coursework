@@ -1,0 +1,31 @@
+﻿  Utils.cpp
+  UserInput.cpp
+  ThirdPersonCamera.cpp
+  SoundManager.cpp
+  Skybox.cpp
+  rt3dObjLoader.cpp
+  rt3d.cpp
+  PlayState.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Model.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  md2model.cpp
+p:\rt3d-coursework\coursework\md2model.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+  MaterialLoader.cpp
+  main.cpp
+  GameContext.cpp
+  Entity.cpp
+  Cube.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  City.cpp
+p:\rt3d-coursework\coursework\city.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+p:\rt3d-coursework\coursework\city.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+p:\rt3d-coursework\coursework\city.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+p:\rt3d-coursework\coursework\city.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+p:\rt3d-coursework\coursework\city.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+  BoundingBox.cpp
+  Generating Code...
+MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+SDLmain.lib(SDL_windows_main.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'SDLmain.lib(SDL_windows_main.obj)' or at 'P:\rt3d-coursework\Debug\vc100.pdb'; linking object as if no debug info
+  Coursework.vcxproj -> P:\rt3d-coursework\Debug\Coursework.exe
